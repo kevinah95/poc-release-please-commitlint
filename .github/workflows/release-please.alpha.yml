@@ -1,0 +1,29 @@
+on:
+  push:
+    branches:
+      - alpha
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please-alpha
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Load secret
+        id: op-load-secret
+        uses: 1password/load-secrets-action@v2
+        with:
+          export-env: false
+        env:
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+          SECRET: op://Development/RELEASE_PLEASE_PAT/token
+      - uses: googleapis/release-please-action@v4
+        with:
+          token: ${{ steps.op-load-secret.outputs.SECRET }}
+          target-branch: alpha
+          config-file: .github/release-please/alpha/release-please-config.json
+          manifest-file: .github/release-please/alpha/.release-please-manifest.json
