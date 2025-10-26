@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.7.1...v0.7.2) (2025-10-26)
+
+
+### 👷 Continuous Integration
+
+* reorganize changelog sections and extra files ([82f30a8](https://github.com/kevinah95/poc-release-please-commitlint/commit/82f30a8257492b4a939973bb6c299b7868c32fbf))
+
 ## [0.7.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.7.0...v0.7.1) (2025-10-26)
 
 
