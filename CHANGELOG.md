@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-alpha.4](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.3...v0.2.0-alpha.4) (2025-10-26)
+
+
+### Bug Fixes
+
+* update integration description in README ([#12](https://github.com/kevinah95/poc-release-please-commitlint/issues/12)) ([a747afc](https://github.com/kevinah95/poc-release-please-commitlint/commit/a747afc94461744ff119290ce8f18ee1bad4c19e))
+
 ## [0.5.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.4.0...v0.5.0) (2025-10-26)
 
 
