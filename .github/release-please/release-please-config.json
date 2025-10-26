@@ -8,7 +8,11 @@
       "draft": false,
       "prerelease": false,
       "extra-files": [
-        ".github/release-please/alpha/.release-please-manifest.jsonc"
+        {
+          "type": "json",
+          "path": ".github/release-please/alpha/.release-please-manifest.json",
+          "jsonpath": "$."
+        }
       ]
     }
   },
