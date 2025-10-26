@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-alpha.3](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.2...v0.2.0-alpha.3) (2025-10-26)
+
+
+### Features
+
+* update README to clarify getting started section ([#9](https://github.com/kevinah95/poc-release-please-commitlint/issues/9)) ([364ffb2](https://github.com/kevinah95/poc-release-please-commitlint/commit/364ffb2593f0aa2a0e7ce5df167205045c18c52b))
+
 ## [0.4.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.3.0...v0.4.0) (2025-10-26)
 
 
