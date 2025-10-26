@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.6.0...v0.7.0) (2025-10-26)
+
+
+### ✨ Features
+
+* add changelog sections for better organization ([ed43bcd](https://github.com/kevinah95/poc-release-please-commitlint/commit/ed43bcddbbe43eb1ad8497baeb3d20c1c59af9ef))
+* update manifest file and config ([6aa32e8](https://github.com/kevinah95/poc-release-please-commitlint/commit/6aa32e8b4c9709a4a14a465901bd1bb71aa42408))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.2.0-alpha.7 ([#19](https://github.com/kevinah95/poc-release-please-commitlint/issues/19)) ([2341634](https://github.com/kevinah95/poc-release-please-commitlint/commit/2341634a418b9f687a9f1120deff413c78f5e466))
+
 ## [0.2.0-alpha.7](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.6...v0.2.0-alpha.7) (2025-10-26)
 
 
