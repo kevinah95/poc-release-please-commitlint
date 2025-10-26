@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-alpha.7](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.6...v0.2.0-alpha.7) (2025-10-26)
+
+
+### Features
+
+* update manifest file and config ([6aa32e8](https://github.com/kevinah95/poc-release-please-commitlint/commit/6aa32e8b4c9709a4a14a465901bd1bb71aa42408))
+
 ## [0.6.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.5.1...v0.6.0) (2025-10-26)
 
 
