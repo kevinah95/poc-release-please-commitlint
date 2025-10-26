@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+# Git commit-msg hook for validating commit messages using commitlint
+# This uses commitlint without package.json or Husky
+#
+
+# Check if commitlint is available
+if ! command -v commitlint >/dev/null 2>&1; then
+    echo "Error: commitlint is not installed globally."
+    echo "Install it with: npm install -g @commitlint/cli @commitlint/config-conventional"
+    exit 1
+fi
+
+# Run commitlint on the commit message
+commitlint --edit "$1"

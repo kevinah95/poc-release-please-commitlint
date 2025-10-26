@@ -1,0 +1,40 @@
+#!/bin/sh
+#
+# Git prepare-commit-msg hook
+# This hook prepares the commit message template
+#
+
+commit_msg_file=$1
+commit_source=$2
+
+# Only run for regular commits (not merges, amends, etc.)
+if [ -z "$commit_source" ]; then
+    # Check if the commit message is empty or just comments
+    if ! grep -q '^[^#]' "$commit_msg_file" 2>/dev/null; then
+        cat > "$commit_msg_file" << 'EOF'
+# Conventional Commit Message Format
+# 
+# type(scope?): subject
+#
+# Allowed types:
+#   feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert
+#
+# Examples:
+#   feat: add user authentication
+#   feat(api): add new endpoint for user data
+#   fix(ui): correct button alignment issue
+#   docs: update installation instructions
+#
+# Add '!' for breaking changes:
+#   feat!: change API response format
+#
+# Body (optional):
+#   Provide additional context here
+#
+# Footer (optional):
+#   BREAKING CHANGE: describe the breaking change
+#   Fixes #123
+#   Closes #456
+EOF
+    fi
+fi
