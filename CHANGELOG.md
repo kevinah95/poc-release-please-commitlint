@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0-alpha.6](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.5...v0.2.0-alpha.6) (2025-10-26)
+
+
+### Features
+
+* add jsonc ([5b61cab](https://github.com/kevinah95/poc-release-please-commitlint/commit/5b61cabd2b0891b94e2f871c0ab5de1607ad2e11))
+
+
+### Bug Fixes
+
+* remove comment from manifest file ([fab7d8f](https://github.com/kevinah95/poc-release-please-commitlint/commit/fab7d8fe308d370f9fb0209789da74c6cc90a77e))
+
 ## [0.2.0-alpha.5](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.4...v0.2.0-alpha.5) (2025-10-26)
 
 
