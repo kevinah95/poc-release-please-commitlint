@@ -58,6 +58,20 @@ npx --no-install commitlint --edit "$1"
 
 6. use task file to run release please commands as needed.
 
+```bash
+task setup
+task release
+task changelog
+```
+
+## Usage
+
+To use this setup:
+
+1. Make changes to your codebase and commit them with conventional commit messages.
+2. Push your changes to the `main` branch.
+3. The GitHub Actions workflow will automatically run, triggering Release Please to create a new release based on your commits.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements or features for this proof of concept repository and how Release Please and Commitlint can work together.

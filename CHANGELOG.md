@@ -1,5 +1,41 @@
 # Changelog
 
+## [0.11.0-alpha.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha.1...v0.11.0-alpha.2) (2025-10-27)
+
+
+### Bug Fixes
+
+* **usage:** remove redundant task start command ([ea3685a](https://github.com/kevinah95/poc-release-please-commitlint/commit/ea3685a66eec0942b81b7ffb7aa32a9f513ac237))
+
+## [0.11.0-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha...v0.11.0-alpha.1) (2025-10-27)
+
+
+### Features
+
+* update task command in usage instructions ([024e12b](https://github.com/kevinah95/poc-release-please-commitlint/commit/024e12b1cc70b4bb9113d458b137081afd5cd1b9))
+* **usage:** add task release command to usage instructions ([bf8e6f8](https://github.com/kevinah95/poc-release-please-commitlint/commit/bf8e6f8d98d6face75ed147389f2af16f6a65ed1))
+
+
+### Bug Fixes
+
+* add task changelog command to usage instructions ([b386d35](https://github.com/kevinah95/poc-release-please-commitlint/commit/b386d35b87c631112912c5adf309b217e0a64c19))
+* add task release command to usage instructions ([0e8ba6e](https://github.com/kevinah95/poc-release-please-commitlint/commit/0e8ba6e8fc9a532a17854243dbea48173869a3fe))
+
+## [0.11.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.1-alpha...v0.11.0-alpha) (2025-10-27)
+
+
+### Features
+
+* add task setup command to usage instructions ([6065980](https://github.com/kevinah95/poc-release-please-commitlint/commit/60659807dad317ce825a01bb46c8a9a4c629a05d))
+
+## [0.10.1-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.0...v0.10.1-alpha) (2025-10-27)
+
+
+### Bug Fixes
+
+* simplify usage instructions in README ([a545ef3](https://github.com/kevinah95/poc-release-please-commitlint/commit/a545ef3822a28fb63f6c05acaa4a7ea9d69e7254))
+* update usage instructions in README ([b795192](https://github.com/kevinah95/poc-release-please-commitlint/commit/b795192583c1532cf83324b2335f0ec6b4816f63))
+
 ## [0.10.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.1...v0.10.0) (2025-10-27)
 
 
