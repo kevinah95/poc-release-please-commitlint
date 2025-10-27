@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.11.0-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha...v0.11.0-alpha.1) (2025-10-27)
+
+
+### Features
+
+* update task command in usage instructions ([024e12b](https://github.com/kevinah95/poc-release-please-commitlint/commit/024e12b1cc70b4bb9113d458b137081afd5cd1b9))
+* **usage:** add task release command to usage instructions ([bf8e6f8](https://github.com/kevinah95/poc-release-please-commitlint/commit/bf8e6f8d98d6face75ed147389f2af16f6a65ed1))
+
+
+### Bug Fixes
+
+* add task changelog command to usage instructions ([b386d35](https://github.com/kevinah95/poc-release-please-commitlint/commit/b386d35b87c631112912c5adf309b217e0a64c19))
+* add task release command to usage instructions ([0e8ba6e](https://github.com/kevinah95/poc-release-please-commitlint/commit/0e8ba6e8fc9a532a17854243dbea48173869a3fe))
+
 ## [0.11.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.1-alpha...v0.11.0-alpha) (2025-10-27)
 
 
