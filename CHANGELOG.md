@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.0...v0.9.1-alpha) (2025-10-27)
+
+
+### Bug Fixes
+
+* update README for clarity on directory structure ([d532633](https://github.com/kevinah95/poc-release-please-commitlint/commit/d532633b0d0d3a1471437b67c6be5637341a1900))
+
 ## [0.9.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.1...v0.9.0) (2025-10-27)
 
 
