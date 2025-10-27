@@ -60,7 +60,6 @@ npx --no-install commitlint --edit "$1"
 
 ```bash
 task setup
-task start
 task release
 task changelog
 ```
