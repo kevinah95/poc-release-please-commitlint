@@ -13,7 +13,7 @@
     {
       "type": "json",
       "path": ".github/release-please/alpha/.release-please-manifest.json",
-      "jsonpath": "$."
+      "jsonpath": "$['.']"
     }
   ],
   "changelog-sections": [
