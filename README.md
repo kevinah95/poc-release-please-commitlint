@@ -56,6 +56,8 @@ npx husky install
 npx --no-install commitlint --edit "$1"
 ```
 
+6. use task file to run release please commands as needed.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements or features for this proof of concept repository and how Release Please and Commitlint can work together.
