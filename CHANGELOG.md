@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.0...v0.9.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* remove code backstick ([#36](https://github.com/kevinah95/poc-release-please-commitlint/issues/36)) ([a7e1394](https://github.com/kevinah95/poc-release-please-commitlint/commit/a7e13948b3655468887bdbcd091a7c183c2b2550))
+
 ## [0.9.1-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.0...v0.9.1-alpha) (2025-10-27)
 
 
