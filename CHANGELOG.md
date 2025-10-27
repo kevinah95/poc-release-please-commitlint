@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0-alpha.8](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.7...v0.2.0-alpha.8) (2025-10-27)
+
+
+### Features
+
+* clarify contributing section in README ([7be6446](https://github.com/kevinah95/poc-release-please-commitlint/commit/7be644663e6151e93a6e24cdbf1a569f395d0c71))
+
+
+### Bug Fixes
+
+* update contributing section for clarity ([1a7cd98](https://github.com/kevinah95/poc-release-please-commitlint/commit/1a7cd988ebd7e7b6cae261d1944079d4812a379e))
+
 ## [0.2.0-alpha.7](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.2.0-alpha.6...v0.2.0-alpha.7) (2025-10-26)
 
 
