@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.9.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.1...v0.9.0-alpha) (2025-10-27)
+
+
+### Features
+
+* add closing message to README ([13253fb](https://github.com/kevinah95/poc-release-please-commitlint/commit/13253fb78356508e794e1a8b095d4b553bf06fa7))
+
+
+### Bug Fixes
+
+* remove periods from feature list in README ([4ec6dc3](https://github.com/kevinah95/poc-release-please-commitlint/commit/4ec6dc391b88b9bdb7dfe60e8d93aefc52cc7242))
+
 ## [0.8.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.0...v0.8.1) (2025-10-27)
 
 
