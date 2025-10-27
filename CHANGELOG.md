@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.10.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.1...v0.10.0) (2025-10-27)
+
+
+### ✨ Features
+
+* new release ([313438c](https://github.com/kevinah95/poc-release-please-commitlint/commit/313438ce095aec053074ea7b4501b5e1eb657bf7))
+* update README with installation instructions for Release Please and Commitlint ([0549326](https://github.com/kevinah95/poc-release-please-commitlint/commit/05493260bf3fd845a554eefb66fcaeb1434e9c32))
+
+
+### 🐛 Bug Fixes
+
+* add note on using task file for release please commands ([ac778a7](https://github.com/kevinah95/poc-release-please-commitlint/commit/ac778a7f8d7fdfb0688bd4ada447e317155bd660))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.10.0-alpha ([#38](https://github.com/kevinah95/poc-release-please-commitlint/issues/38)) ([e45811b](https://github.com/kevinah95/poc-release-please-commitlint/commit/e45811b2e4aaab4789ec1bf12704d24ccfb2fed5))
+
 ## [0.10.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.1...v0.10.0-alpha) (2025-10-27)
 
 
