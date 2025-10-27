@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0-alpha.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha.1...v0.11.0-alpha.2) (2025-10-27)
+
+
+### Bug Fixes
+
+* **usage:** remove redundant task start command ([ea3685a](https://github.com/kevinah95/poc-release-please-commitlint/commit/ea3685a66eec0942b81b7ffb7aa32a9f513ac237))
+
 ## [0.11.0-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha...v0.11.0-alpha.1) (2025-10-27)
 
 
