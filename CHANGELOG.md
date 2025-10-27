@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.1-alpha...v0.11.1-alpha.1) (2025-10-27)
+
+
+### Bug Fixes
+
+* update features section for clarity and conciseness ([93ec5dd](https://github.com/kevinah95/poc-release-please-commitlint/commit/93ec5dda14b639c8f56bd36373e6d2d11eced906))
+
 ## [0.11.1-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0...v0.11.1-alpha) (2025-10-27)
 
 
