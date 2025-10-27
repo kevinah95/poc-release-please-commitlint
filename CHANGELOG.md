@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.1...v0.9.0) (2025-10-27)
+
+
+### ✨ Features
+
+* change the workflow from alpha to main ([#33](https://github.com/kevinah95/poc-release-please-commitlint/issues/33)) ([f7684e4](https://github.com/kevinah95/poc-release-please-commitlint/commit/f7684e4e76a3bc3f0c6410a05cb46e7d38db719f))
+
 ## [0.9.0-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.9.0-alpha...v0.9.0-alpha.1) (2025-10-27)
 
 
