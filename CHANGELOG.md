@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.1-alpha...v0.11.0-alpha) (2025-10-27)
+
+
+### Features
+
+* add task setup command to usage instructions ([6065980](https://github.com/kevinah95/poc-release-please-commitlint/commit/60659807dad317ce825a01bb46c8a9a4c629a05d))
+
 ## [0.10.1-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.0...v0.10.1-alpha) (2025-10-27)
 
 
