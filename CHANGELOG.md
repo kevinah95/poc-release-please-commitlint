@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.11.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.1...v0.11.2) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* correct numbering in installation instructions ([31a151a](https://github.com/kevinah95/poc-release-please-commitlint/commit/31a151a97e24a26828c74e9004d181aad53d72d0))
+* remove husky installation instructions from README ([9179fdd](https://github.com/kevinah95/poc-release-please-commitlint/commit/9179fddac3b81ba96a9cd2e8b72a750dd4989351))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.11.2-alpha ([#54](https://github.com/kevinah95/poc-release-please-commitlint/issues/54)) ([d39f34f](https://github.com/kevinah95/poc-release-please-commitlint/commit/d39f34fcc67557b981ca38021dcce62917c6d6bc))
+* new release ([96ff682](https://github.com/kevinah95/poc-release-please-commitlint/commit/96ff6828ab39e099346b87dfc9d91cc5b9017d0f))
+* sync from main ([862d803](https://github.com/kevinah95/poc-release-please-commitlint/commit/862d803093479565714b97ad7284fdf52c4bec97))
+
 ## [0.11.2-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.1...v0.11.2-alpha) (2025-10-27)
 
 
