@@ -11,7 +11,7 @@ This is a proof of concept repository demonstrating the integration of Release P
 
 ## Getting Started
 
-To get started with this repository, clone it to your local machine and explore the GitHub Actions workflows defined in the `.github/workflows` directory. You can also check out the `release-please-config.json` file for configuration details.
+To get started with this repository, clone it to your local machine and explore the GitHub Actions workflows defined in the .github/workflows directory. You can also check out the `release-please-config.json` file for configuration details.
 
 Feel free to modify the commit messages following the conventional commit format to see how the versioning and changelog generation works!
 
