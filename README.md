@@ -62,6 +62,7 @@ npx --no-install commitlint --edit "$1"
 task setup
 task start
 task release
+task changelog
 ```
 
 ## Usage
