@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.0...v0.8.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* This would fix the release ([#29](https://github.com/kevinah95/poc-release-please-commitlint/issues/29)) ([d1e4b66](https://github.com/kevinah95/poc-release-please-commitlint/commit/d1e4b66023929234b783a561153b5eb5229c4ded))
+
 ## [0.9.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.0...v0.9.0-alpha) (2025-10-27)
 
 
