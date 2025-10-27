@@ -41,11 +41,10 @@ module.exports = {
 };
 ```
 
-4. Create a `.husky/commit-msg` file with the following content:
+4. Create a `.githooks/commit-msg` file with the following content:
 
 ```bash
 #!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
 
 npx --no-install commitlint --edit "$1"
 ```
