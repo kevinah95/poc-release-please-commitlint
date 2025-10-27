@@ -4,8 +4,8 @@ This is a proof of concept repository demonstrating the integration of Release P
 
 ## Features
 
-- Automated semantic based on commit messages
-- Changelog generation from history
+- Automated semantic
+- Changelog generation
 - Integration with GitHub Actions for deployment
 - Support for conventional commit
 
