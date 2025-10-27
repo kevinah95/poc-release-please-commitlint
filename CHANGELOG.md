@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.3-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.2...v0.11.3-alpha) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* **release-please:** Unhide build section in changelog ([51596be](https://github.com/kevinah95/poc-release-please-commitlint/commit/51596bed5e7ac0754682f57ae6beb8e020c0aecd))
+
 ## [0.11.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.1...v0.11.2) (2025-10-27)
 
 
