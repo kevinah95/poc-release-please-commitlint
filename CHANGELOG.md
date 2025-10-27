@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.9.0-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.8.0...v0.9.0-alpha) (2025-10-27)
+
+
+### Features
+
+* update README to include final thoughts section ([f78d8be](https://github.com/kevinah95/poc-release-please-commitlint/commit/f78d8be9feace906dec95d55a32092adaedde4ab))
+
+
+### Bug Fixes
+
+* fix punctuation in features section of README ([a88f574](https://github.com/kevinah95/poc-release-please-commitlint/commit/a88f574ac8d888aca51f1a992ed3264b1a48150c))
+
 ## [0.8.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.7.2...v0.8.0) (2025-10-27)
 
 
