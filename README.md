@@ -58,6 +58,10 @@ npx --no-install commitlint --edit "$1"
 
 6. use task file to run release please commands as needed.
 
+```bash
+task setup
+```
+
 ## Usage
 
 To use this setup:
