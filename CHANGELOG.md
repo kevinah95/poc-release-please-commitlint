@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.11.0](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.10.0...v0.11.0) (2025-10-27)
+
+
+### ✨ Features
+
+* add task setup command to usage instructions ([6065980](https://github.com/kevinah95/poc-release-please-commitlint/commit/60659807dad317ce825a01bb46c8a9a4c629a05d))
+* update task command in usage instructions ([024e12b](https://github.com/kevinah95/poc-release-please-commitlint/commit/024e12b1cc70b4bb9113d458b137081afd5cd1b9))
+* **usage:** add task release command to usage instructions ([bf8e6f8](https://github.com/kevinah95/poc-release-please-commitlint/commit/bf8e6f8d98d6face75ed147389f2af16f6a65ed1))
+
+
+### 🐛 Bug Fixes
+
+* add task changelog command to usage instructions ([b386d35](https://github.com/kevinah95/poc-release-please-commitlint/commit/b386d35b87c631112912c5adf309b217e0a64c19))
+* add task release command to usage instructions ([0e8ba6e](https://github.com/kevinah95/poc-release-please-commitlint/commit/0e8ba6e8fc9a532a17854243dbea48173869a3fe))
+* simplify usage instructions in README ([a545ef3](https://github.com/kevinah95/poc-release-please-commitlint/commit/a545ef3822a28fb63f6c05acaa4a7ea9d69e7254))
+* update usage instructions in README ([b795192](https://github.com/kevinah95/poc-release-please-commitlint/commit/b795192583c1532cf83324b2335f0ec6b4816f63))
+* **usage:** remove redundant task start command ([ea3685a](https://github.com/kevinah95/poc-release-please-commitlint/commit/ea3685a66eec0942b81b7ffb7aa32a9f513ac237))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.10.1-alpha ([#42](https://github.com/kevinah95/poc-release-please-commitlint/issues/42)) ([ae11128](https://github.com/kevinah95/poc-release-please-commitlint/commit/ae111286324a8968b13c50c5b58b7a6ce9d67870))
+* :bookmark: prerelease 0.11.0-alpha ([#43](https://github.com/kevinah95/poc-release-please-commitlint/issues/43)) ([eae3956](https://github.com/kevinah95/poc-release-please-commitlint/commit/eae3956e4b3f402083d2747b6260d47b3fd2a757))
+* :bookmark: prerelease 0.11.0-alpha.1 ([#44](https://github.com/kevinah95/poc-release-please-commitlint/issues/44)) ([8483f92](https://github.com/kevinah95/poc-release-please-commitlint/commit/8483f92facfb4dc481c833b4a3342e10f463cae6))
+* :bookmark: prerelease 0.11.0-alpha.2 ([#45](https://github.com/kevinah95/poc-release-please-commitlint/issues/45)) ([1859a45](https://github.com/kevinah95/poc-release-please-commitlint/commit/1859a457d7c997295ff7f421cf2310ca24338d0f))
+* syn with main ([fd060a6](https://github.com/kevinah95/poc-release-please-commitlint/commit/fd060a673ae7316067cc18a10d75ec6b00d12aba))
+* sync from alpha ([6ad88d3](https://github.com/kevinah95/poc-release-please-commitlint/commit/6ad88d33dc362b12e2f7ed619646d7198bfd5a2f))
+
 ## [0.11.0-alpha.2](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0-alpha.1...v0.11.0-alpha.2) (2025-10-27)
 
 
