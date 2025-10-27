@@ -4,10 +4,10 @@ This is a proof of concept repository demonstrating the integration of Release P
 
 ## Features
 
-- Automated semantic versioning based on commit messages.
-- Changelog generation from commit history.
-- Integration with GitHub Actions for continuous deployment.
-- Support for conventional commit messages.
+- Automated semantic versioning based on commit messages
+- Changelog generation from commit history
+- Integration with GitHub Actions for continuous deployment
+- Support for conventional commit messages
 
 ## Getting Started
 
@@ -22,3 +22,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Final Thoughts
 
 This repository serves as a starting point for developers interested in automating their release processes using Release Please and Commitlint. Your feedback and contributions are highly appreciated!
+
+Happy coding!
