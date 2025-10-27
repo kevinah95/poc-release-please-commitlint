@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.11.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.0...v0.11.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* update features section for clarity and conciseness ([93ec5dd](https://github.com/kevinah95/poc-release-please-commitlint/commit/93ec5dda14b639c8f56bd36373e6d2d11eced906))
+* update features section for clarity and conciseness ([37a0b76](https://github.com/kevinah95/poc-release-please-commitlint/commit/37a0b76c305c9e5cd001896436c2255b8c1b2428))
+* update features section for clarity and conciseness ([0443e65](https://github.com/kevinah95/poc-release-please-commitlint/commit/0443e650f93d3b4e15edf5c84df2bea283a80924))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.11.1-alpha ([#49](https://github.com/kevinah95/poc-release-please-commitlint/issues/49)) ([707686b](https://github.com/kevinah95/poc-release-please-commitlint/commit/707686bf19c196dee203e556ff89e2a33de9c4f7))
+* :bookmark: prerelease 0.11.1-alpha.1 ([#50](https://github.com/kevinah95/poc-release-please-commitlint/issues/50)) ([0bbbdc0](https://github.com/kevinah95/poc-release-please-commitlint/commit/0bbbdc0e419478861088ae539b1195e541e65b8d))
+* new release ([dcf28a0](https://github.com/kevinah95/poc-release-please-commitlint/commit/dcf28a0653fa14286226572d5ad57b0be5f6e0cf))
+* sync from main ([bb09603](https://github.com/kevinah95/poc-release-please-commitlint/commit/bb09603a1dc75349b00ec7a456c0b4e4ceef15ae))
+
 ## [0.11.1-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.1-alpha...v0.11.1-alpha.1) (2025-10-27)
 
 
