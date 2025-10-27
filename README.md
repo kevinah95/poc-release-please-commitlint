@@ -41,12 +41,6 @@ module.exports = {
 };
 ```
 
-4. Add a Git hook to lint commit messages before they are created. You can use `husky` for this:
-
-```bash
-npx husky install
-```
-
 5. Create a `.husky/commit-msg` file with the following content:
 
 ```bash
