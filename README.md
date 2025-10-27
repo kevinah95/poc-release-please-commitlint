@@ -60,7 +60,7 @@ npx --no-install commitlint --edit "$1"
 
 ## Usage
 
-To use this setup, follow these steps:
+To use this setup:
 
 1. Make changes to your codebase and commit them with conventional commit messages.
 2. Push your changes to the `main` branch.
