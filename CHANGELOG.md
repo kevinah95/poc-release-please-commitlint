@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.11.3](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.2...v0.11.3) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* **release-please:** Unhide build section in changelog ([51596be](https://github.com/kevinah95/poc-release-please-commitlint/commit/51596bed5e7ac0754682f57ae6beb8e020c0aecd))
+* Update commit-msg hook path in README ([e2d5e90](https://github.com/kevinah95/poc-release-please-commitlint/commit/e2d5e900af026959bdadca373cdc016733af4410))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.11.3-alpha ([#57](https://github.com/kevinah95/poc-release-please-commitlint/issues/57)) ([6a369a3](https://github.com/kevinah95/poc-release-please-commitlint/commit/6a369a35904a7f6d5767e8c12d1b31016c328a93))
+* :bookmark: prerelease 0.11.3-alpha.1 ([#59](https://github.com/kevinah95/poc-release-please-commitlint/issues/59)) ([0c2837b](https://github.com/kevinah95/poc-release-please-commitlint/commit/0c2837bdbe1bd1ee785ec605dc8d113686ca8bda))
+* New release ([dbf5169](https://github.com/kevinah95/poc-release-please-commitlint/commit/dbf5169b16d58aef2aa12952930eedeedc36d66b))
+
 ## [0.11.3-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.3-alpha...v0.11.3-alpha.1) (2025-10-27)
 
 
