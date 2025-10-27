@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.3-alpha.1](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.3-alpha...v0.11.3-alpha.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* Update commit-msg hook path in README ([e2d5e90](https://github.com/kevinah95/poc-release-please-commitlint/commit/e2d5e900af026959bdadca373cdc016733af4410))
+
 ## [0.11.3-alpha](https://github.com/kevinah95/poc-release-please-commitlint/compare/v0.11.2...v0.11.3-alpha) (2025-10-27)
 
 
