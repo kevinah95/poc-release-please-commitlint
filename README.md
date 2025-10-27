@@ -17,4 +17,4 @@ Feel free to modify the commit messages following the conventional commit format
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements or features.
