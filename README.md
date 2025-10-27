@@ -41,7 +41,7 @@ module.exports = {
 };
 ```
 
-5. Create a `.husky/commit-msg` file with the following content:
+4. Create a `.husky/commit-msg` file with the following content:
 
 ```bash
 #!/bin/sh
